@@ -1,0 +1,13 @@
+{
+  "name": "jair-dev-landing",
+  "version": "1.0.0",
+  "description": "Landing page pessoal de Jair - Desenvolvedor Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["landing", "portfolio", "developer"],
+  "author": "Jair Junior da Silva Edinger",
+  "license": "MIT"
+}
